@@ -3,24 +3,26 @@
 
 First assignment of Advanced Programming 2 course at BIU.<br>
 
-Static List data (Users):
+Static List data (Users You Can Connect with):
 
 | **Username**   | **Nickname** | **Password**      | 
 | -------------  |--------------|-------------- |
 | Niv Nahman     | niven  | Q1w2e3r4    |
 | Dvir Amram     | dvir   | T5y6u7i8    |
-| Niv Nahman     | niven  | Q1w2e3r4    |
+| Ron Solomon    | Ronchu  | 1Qazxsw2    |
 
 Available users to add to niven chats :
 | **Username**   | **Nickname** | **Server**      | 
 | -------------  |--------------|-------------- |
-| Niv Nahman     | niven        | Q1w2e3r4    |
+| Ron Solomon    | Ronchu        | localhost:7261    |
 
 Available users to add to dvir chats :
+*He is talking with all people from our Server*
+
+Available users to add to Ronchu chats :
 | **Username**   | **Nickname** | **Server**      | 
 | -------------  |--------------|-------------- |
-| Niv Nahman     | niven        | Q1w2e3r4    |
-
+| Niv Nahman     | niven        | localhost:7261    |
 
 
 <div>
