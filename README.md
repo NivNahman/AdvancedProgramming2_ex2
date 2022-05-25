@@ -52,6 +52,8 @@ Please first install the following packages:
   </li>
   <li>
     npm init -y
+  </li>
+  <li>
     npm install @microsoft/signalr
   </li>
 </div>
