@@ -13,10 +13,10 @@ Available users to add to niven chats :
 | **Username**   | **Nickname** | **Server**      | 
 | -------------  |--------------|-------------- |
 | Ron Solomon    | Ronchu        | localhost:7261    |
-
+<br>
 Available users to add to dvir chats :
 *He is talking with all people from our Server*
-
+<br>
 Available users to add to Ronchu chats :
 | **Username**   | **Nickname** | **Server**      | 
 | -------------  |--------------|-------------- |
@@ -24,6 +24,7 @@ Available users to add to Ronchu chats :
 
 <br>
 To get to the Rating page - click on a chat with someone and on the top right side you will have a link.
+<br>
 <br>
 <div>
 Dependecies:
