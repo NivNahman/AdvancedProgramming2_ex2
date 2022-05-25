@@ -1,7 +1,5 @@
 # AdvancedProgramming2_ex2
-# Advanced2_ex1
-
-First assignment of Advanced Programming 2 course at BIU.<br>
+Second assignment of Advanced Programming 2 course at BIU.<br>
 
 Static List data (Users You Can Connect with):
 
@@ -24,7 +22,9 @@ Available users to add to Ronchu chats :
 | -------------  |--------------|-------------- |
 | Niv Nahman     | niven        | localhost:7261    |
 
-
+<br>
+To get to the Rating page - click on a chat with someone and on the top right side you will have a link.
+<br>
 <div>
 Dependecies:
   <li>
