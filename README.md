@@ -1,8 +1,8 @@
-# AdvancedProgramming2_ex2
+# React Project
 Second assignment of Advanced Programming 2 course at BIU.<br>
 <br>
 
-Our localhost:7261
+Our Server localhost:7261
 
 <br>
 Static List data (Users You Can Connect with):
