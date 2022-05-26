@@ -1,0 +1,26 @@
+.textBox{
+    width: 100%;
+    height: 100%;
+}
+.add-file{
+    width: 6%;
+}
+.send-button{
+    width: 6%;
+}
+.input-text{
+    width: 84%;
+}
+.butn{
+    width: 90%;
+    height: 90%;
+}
+.text-input{
+    height: 50%;
+}
+#audio-container{
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    width: 100%;
+}

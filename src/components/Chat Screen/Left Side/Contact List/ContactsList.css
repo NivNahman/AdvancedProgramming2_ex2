@@ -1,0 +1,11 @@
+.friends-list{
+    overflow-y: scroll;
+    min-height: 86.9%;
+    max-height: 86.9%;
+    width: 29.85%;
+    position: absolute;  
+    list-style-type: none;
+    padding-left: 0%;
+    background: linear-gradient(rgb(128, 171, 184),rgba(0, 77, 77, .9));
+
+}

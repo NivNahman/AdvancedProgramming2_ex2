@@ -1,0 +1,51 @@
+.myInfo{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(246, 247, 244);
+}
+.my-img{
+    width: 20%;
+    min-width: 20%;
+    max-width: 20%;
+}
+.my-name{
+    width: 55%;
+    min-width: 60%;
+    max-width: 60%;
+    text-align: center;
+}
+.add-friend{
+    width: 20%;
+    min-width: 20%;
+    max-width: 20%;
+}
+.logout{
+    width: 5%;
+    min-width: 20%;
+    max-width: 20%;
+}
+
+.small-btn{
+    /* width: 50px;
+    height: 25px; */
+    font-size: x-small;
+}
+
+img{
+    height: 70px;
+    width: 70px;;
+}
+
+.add-friend-btn{
+    height: 50px ;
+    width: 50px ;
+    padding: 5px;
+
+
+}
+
+.add-friend-bton{
+    height: 40px ;
+    width: 40px ;
+    background-position: center;
+}
