@@ -5,14 +5,14 @@ Static List data (Users You Can Connect with):
 
 | **Username**   | **Nickname** | **Password**      | 
 | -------------  |--------------|-------------- |
-| Niv Nahman     | niven  | Q1w2e3r4    |
-| Dvir Amram     | dvir   | T5y6u7i8    |
-| Ron Solomon    | Ronchu  | 1Qazxsw2    |
+| Niv_Nahman     | niven  | Q1w2e3r4    |
+| Dvir_Amram     | dvir   | T5y6u7i8    |
+| Ron_Solomon    | Ronchu  | 1Qazxsw2    |
 
 Available users to add to niven chats :
 | **Username**   | **Nickname** | **Server**      | 
 | -------------  |--------------|-------------- |
-| Ron Solomon    | Ronchu        | localhost:7261    |
+| Ron_Solomon    | Ronchu        | localhost:7261    |
 
 <br>
 
@@ -24,7 +24,7 @@ Available users to add to dvir chats :
 Available users to add to Ronchu chats :
 | **Username**   | **Nickname** | **Server**      | 
 | -------------  |--------------|-------------- |
-| Niv Nahman     | niven        | localhost:7261    |
+| Niv_Nahman     | niven        | localhost:7261    |
 
 <br>
 To get to the Rating page - click on a chat with someone and on the top right side you will have a link.
