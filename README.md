@@ -62,7 +62,7 @@ Please first install the following packages:
   </li>
 </div>
 <br>
-Run Both RankServer, WebApiServer
+Run Both RankPage, WebApiServer
 <br>
 Start by using npm start.
 <br>
